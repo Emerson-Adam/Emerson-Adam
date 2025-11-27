@@ -37,7 +37,7 @@ Também sou pós-graduado **Ciência de Dados e suas Aplicações** pela **UTFPR
 **Consultor SAP ABAP — Escotta Consulting**  
 *Período:* 22/05/2023 — Atual  
 *Linguagens e Tecnologias:* `ABAP`, `SmartForms`, `IDocs`, `Sproxy`, `PI/PO`  
-*Atividades:* Atuação em projetos e suporte AMS nos módulos **MM**, **SD** e **FI**
+*Atividades:* Atuação em projetos e suporte AMS nos módulos **MM**, **SD**, **WM** e **FI**
 
 ---
 
