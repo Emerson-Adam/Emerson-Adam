@@ -13,7 +13,8 @@ Também sou pós-graduado **Ciência de Dados e suas Aplicações** pela **UTFPR
 ### Linguagens
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Ferramentas de Desenvolvimento
 ![SAP GUI](https://img.shields.io/badge/SAPGUi-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
